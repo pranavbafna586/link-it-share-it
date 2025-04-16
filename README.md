@@ -2,6 +2,23 @@
 
 A simple and secure file-sharing SaaS platform built using modern web technologies and Supabase. "link-it-share-it" allows users to upload files and generate unique download links that can be shared with anyone. No account is needed to download the shared files, but uploading and managing files require user authentication powered by Supabase.
 
+## 📱 UI Overview
+
+### Landing Page
+
+![Landing Page](public/LandingPage.png)
+_Share files effortlessly with anyone through our simple and intuitive interface._
+
+### File Download Page
+
+![File Download Page](public/FileDownloadPage.png)
+_Recipients can easily download shared files without creating an account._
+
+### User Dashboard
+
+![User Dashboard](public/Dashboard.png)
+_Upload, manage, and share your files from one convenient dashboard._
+
 ---
 
 ## 🚀 Features
